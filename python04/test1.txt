@@ -1,0 +1,20 @@
+file：文件
+open： 打开
+close： 关闭
+read：读取
+write：写入
+line：行
+append：追加
+byte：字节
+binary：二进制hello worldhello worldhello worldas
+sad
+dasd
+as
+sad
+dasd
+as
+sad
+dasd
+as
+sad
+dasd
